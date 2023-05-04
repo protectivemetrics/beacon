@@ -1,6 +1,6 @@
 # Protective Metrics Beacon
 
-An easy to install and unobtrusive web beacon that calls the Protective Metrics API and logs impressions for a piece of web content.
+An easy to install and unobtrusive web beacon that calls the [Protective Metrics](https://protectivemetrics.com) API and logs impressions for a piece of web content.
 
 ## Installation
 
